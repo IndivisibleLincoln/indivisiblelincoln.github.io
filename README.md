@@ -1,2 +1,3 @@
-# indivisiblelincoln.github.io
-The Indivisible Lincoln website
+# Indivisible Lincoln Website
+
+[indivisiblelincoln.com](http://indivisiblelincoln.com)
