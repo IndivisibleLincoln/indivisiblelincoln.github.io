@@ -39,13 +39,13 @@ h1
     text-align: center;
 }
 
-.row
+.container
 {
     padding-left: 10px;
     padding-right: 10px;
 }
 
-.row.white
+article:nth-child(even)
 {
     background-color: #ffffff;
 }
