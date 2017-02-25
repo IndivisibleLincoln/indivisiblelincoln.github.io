@@ -76,3 +76,23 @@ article:nth-child(even)
     margin-top: 0;
     padding-top: 0;
 }
+
+footer
+{
+    background-color: #000;
+    color: #fff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 16px;
+}
+
+footer .copyright
+{
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+footer a, footer a:link, footer a:hover, footer a:active, footer a:visited
+{
+    color: #fff;
+}
