@@ -1,3 +1,3 @@
 # Indivisible Lincoln Website
 
-[indivisiblelincoln.com](http://indivisiblelincoln.com)
+[indivisiblelincoln.com](https://indivisiblelincoln.com)
